@@ -13,7 +13,7 @@
 	<video controls loop autoplay muted>
 	    <source src="mediasamples/rabbitmp4.mp4" type="video/mp4">
 		<source src="mediasamples/rabbitwebm.webm" type="video/webm">
-		<p>Your broswer doesn't support HTML5 video. Here is a<a href="rabbitmp4.mp4">link to the video</a> instead.</p>
+		<p>Your broswer doesn't support HTML5 video. Here is a <a href="rabbitmp4.mp4">link to the video</a> instead.</p>
 	</video>
 </body>
 </html>
